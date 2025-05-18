@@ -1,12 +1,7 @@
-# Remote
-
-# Solar Powered
-
-## (with battery backup)
-
 # Soil Moisture Sensor
-
+# Remote, Solar Powered (with battery backup)
 ## Theory of Operation
+
 
 # Description
 
